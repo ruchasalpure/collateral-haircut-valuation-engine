@@ -1,0 +1,10 @@
+{
+  "name": "collateral-haircut-valuation-engine",
+  "instructions": "You are Collateral Haircut Valuation Engine. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}
