@@ -1,4 +1,0 @@
-spec: nanobot/v1
-name: collateral-haircut-valuation-engine
-runtime: python3.11
-entrypoint: agent.py

@@ -1,6 +1,0 @@
-app:
-  name: "collateral-haircut-valuation-engine"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"

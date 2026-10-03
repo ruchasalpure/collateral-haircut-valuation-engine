@@ -1,8 +1,0 @@
-{
-  "agent_id": "collateral-haircut-valuation-engine",
-  "protocol": "opencode/v1",
-  "capabilities": [
-    "autonomous",
-    "governed"
-  ]
-}
